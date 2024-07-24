@@ -1,2 +1,4 @@
-# JP_Morgan_Chase_Virtual_Internship
-JP Morgan and Chase Virtual Internship on Excel skills
+# JP Morgan Chase Virtual Internship
+This virtual internship was under JP Morgan Chase and Co. on Excel Skills by Forage.
+
+
