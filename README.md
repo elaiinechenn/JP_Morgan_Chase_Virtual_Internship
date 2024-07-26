@@ -16,3 +16,6 @@ This virtual internship was under JP Morgan Chase and Co. on Excel Skills by For
 * 選取2021那一欄-條件式格式設定-前段／後段項目規則-前10％
 
 <img width="823" alt="Account Sales Data for Analysis_Task2" src="https://github.com/user-attachments/assets/6a8844e6-006c-4854-aeb6-17b84c48189c">
+
+### Account Sales Data for Analysis_Task3
+<img width="976" alt="image" src="https://github.com/user-attachments/assets/7c378556-0672-4e20-9f5e-9371e4bcf8c0">
